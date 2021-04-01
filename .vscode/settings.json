@@ -1,0 +1,11 @@
+{
+    "cSpell.ignoreWords": [
+        "mongodb"
+    ],
+    "cSpell.words": [
+        "maxlength",
+        "middlewares",
+        "signin",
+        "signout"
+    ]
+}
