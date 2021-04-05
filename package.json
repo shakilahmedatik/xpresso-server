@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "Md Shakil Ahammad Atik",
@@ -21,9 +22,11 @@
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
     "mongoose": "^5.11.15",
-    "morgan": "^1.10.0",
-    "nodemon": "^2.0.7",
     "uuid": "^8.3.2",
     "uuidv1": "^1.6.14"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
   }
 }
