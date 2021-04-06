@@ -23,9 +23,7 @@
     "lodash": "^4.17.21",
     "mongoose": "^5.11.15",
     "uuid": "^8.3.2",
-    "uuidv1": "^1.6.14"
-  },
-  "devDependencies": {
+    "uuidv1": "^1.6.14",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.7"
   }
